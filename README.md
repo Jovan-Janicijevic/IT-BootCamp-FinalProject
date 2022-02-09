@@ -1,2 +1,3 @@
 # IT-BootCampQA
-All project I did during ITBC
+Final project i did for IT bootcamp.
+Using testNG and selenium
