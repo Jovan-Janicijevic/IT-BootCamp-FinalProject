@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="D_14_Jovan_Janicijevic_NS128QA4(failed)">
+    <classes>
+      <class name="TestDemo">
+        <methods>
+          <include name="close"/>
+          <include name="setupWebDriver"/>
+          <include name="setUpBefore"/>
+          <include name="testForms"/>
+        </methods>
+      </class> <!-- TestDemo -->
+    </classes>
+  </test> <!-- D_14_Jovan_Janicijevic_NS128QA4(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

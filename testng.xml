@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="DemoQA" verbose="1" >
+
+    <test name="IT Bootcamp itBootcampTest" >
+        <classes>
+<!--            <class name="TestDemo"></class>-->
+            <class name="webtables.Webtables"></class>
+        </classes>
+    </test>
+
+</suite>

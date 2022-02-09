@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-02T13:42:11 CET" name="Default Suite" finished-at="2022-02-02T13:42:19 CET" duration-ms="7794">
+    <groups>
+    </groups>
+    <test started-at="2022-02-02T13:42:11 CET" name="D_14_Jovan_Janicijevic_NS128QA4" finished-at="2022-02-02T13:42:19 CET" duration-ms="7794">
+      <class name="TestDemo">
+        <test-method is-config="true" signature="setupWebDriver()[pri:0, instance:TestDemo@6a01e23]" started-at="2022-02-02T13:42:12 CET" name="setupWebDriver" finished-at="2022-02-02T13:42:13 CET" duration-ms="1301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupWebDriver -->
+        <test-method is-config="true" signature="setUpBefore()[pri:0, instance:TestDemo@6a01e23]" started-at="2022-02-02T13:42:13 CET" name="setUpBefore" finished-at="2022-02-02T13:42:14 CET" duration-ms="1541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpBefore -->
+        <test-method signature="testForms()[pri:0, instance:TestDemo@6a01e23]" started-at="2022-02-02T13:42:14 CET" name="testForms" finished-at="2022-02-02T13:42:19 CET" duration-ms="4308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testForms -->
+        <test-method is-config="true" signature="close()[pri:0, instance:TestDemo@6a01e23]" started-at="2022-02-02T13:42:19 CET" name="close" finished-at="2022-02-02T13:42:19 CET" duration-ms="620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- TestDemo -->
+    </test> <!-- D_14_Jovan_Janicijevic_NS128QA4 -->
+  </suite> <!-- Default Suite -->
+</testng-results>
